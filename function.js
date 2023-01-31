@@ -24,6 +24,6 @@ document.getElementById("radio-6").onclick = function () {
 }
 
 
-//PROBANDO LA CONSOLA
+/*PROBANDO LA CONSOLA
 console.log("Hola Mundo");
-console.log(8 + 9);
+console.log(8 + 9);*/
