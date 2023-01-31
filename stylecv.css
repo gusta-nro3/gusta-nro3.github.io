@@ -1,0 +1,89 @@
+/*h1 {
+   	color:rgb(144, 30, 123);
+    border-style:solid;
+	border-color:black;
+	border-width: 5px;
+	text-align: center;
+	font-size: 50px;
+	font-family: 'Montserrat', sans-serif;
+}*/
+/**{
+	box-sizing: border-box;
+	margin:0;
+	padding:0;
+}*/
+body {
+	border-color: black;
+	border-width: 5px;
+	border-style: solid;
+	/*margin: 0;
+	margin-left: 10px;
+	margin-right: 10px;*/
+	background-color: rgba(127, 255, 165, 0.411);
+	margin: auto;
+}
+#conteiner {
+	display: flex;
+	margin-left: 100px;
+	margin-right: 100px;
+	background-color: rgba(172, 255, 47, 0.355);
+	padding: 10px;
+
+}
+#conteiner img{
+	border-radius: 5px;
+}
+.nombre {
+	padding-left: 150px;
+
+}
+#formacion{
+	display:flex;
+	margin-left: 100px;
+	margin-right: 100px;
+	background-color: rgba(172, 255, 47, 0.355);
+	padding: 10px;
+	border-color: black;
+	border-width: 5px;
+	border-style: solid;
+}
+.complemento{
+	padding-left:5px;
+	border-width: 1px;
+	border-color: rgba(137, 43, 226, 0.433);
+	border-style: solid;
+	background-color: rgba(0, 0, 255, 0.186);
+}
+ .complemento h3 {
+	text-align: center;
+	text-decoration-line: underline;
+
+ }
+ .complemento h4{
+	margin-left: 5px;
+ }
+.experiencia{
+	padding-left: 15px;
+	
+}
+footer{
+	text-align: right;
+	background-color:  rgba(0, 0, 255, 0.186);
+	margin-left: 100px;
+	margin-right: 100px;
+	
+}
+.pie{
+	
+	padding: 20px;
+	text-align: center;
+}
+.pie button{
+	display: inline-block; 
+	margin: 10px 0;
+	padding-left: 20px;
+	padding-right:20px;
+
+	background-color:  rgba(172, 255, 47, 0.355);
+}
+
